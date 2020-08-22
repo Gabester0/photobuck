@@ -1,6 +1,6 @@
 # photobuck
 
-## This is a photo bucket for a codepen I am creating
+## A demo of using Github to host an image file
 
 **Demo:**
 [https://codepen.io/gabepen/pen/ZEWBVYY](https://codepen.io/gabepen/pen/ZEWBVYY)
