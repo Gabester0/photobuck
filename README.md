@@ -1,6 +1,6 @@
 # photobuck
 
-##This is a photo bucket for a codepen I am creating
+## This is a photo bucket for a codepen I am creating
 
 **Demo:**
 [https://codepen.io/gabepen/pen/ZEWBVYY](https://codepen.io/gabepen/pen/ZEWBVYY)
